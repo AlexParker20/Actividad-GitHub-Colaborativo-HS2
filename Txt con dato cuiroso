@@ -1,1 +1,6 @@
 
+Repositorio: Alexis Celaya
+Descripción: Formulario con dato interesante
+Control de versiones: Git
+----------------------------------------
+En Git es posible modificar la historia de los commits usando comandos como rebase o commit --amend. Esto permite editar, combinar o eliminar commits antiguos. Sin embargo, si los commits ya se han compartido con otros, cambiar la historia puede generar conflictos.
